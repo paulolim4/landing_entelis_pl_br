@@ -83,6 +83,10 @@ body {
     color: #fff;
 }
 
+.button:hover {
+    background-color:#030303;
+}
+
 .imagem1 {
     max-width: 60%;
 }
